@@ -8,5 +8,5 @@ Default / regular markdown format for repo without branch/tree:
 
 Using tree/master format: 
 
-[![CircleCI](https://circleci.com/gh/HennaAbbas/test-status-badge/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/HennaAbbas/test-status-badge/tree/circleci-project-setup)
+[![CircleCI](https://circleci.com/gh/HennaAbbas/test-status-badge/tree/test2.svg?style=svg)](https://circleci.com/gh/HennaAbbas/test-status-badge/tree/test2)
 
